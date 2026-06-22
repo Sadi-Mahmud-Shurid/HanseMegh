@@ -35,10 +35,10 @@
 ## What I Learned
 
 *Day 1:*
-> Refereshed linux file system basics
-> Created repo and configured SSH keys
-> Git identity set
-> First commit and push
+> - Refereshed linux file system basics
+> - Created repo and configured SSH keys
+> - Git identity set
+> - First commit and push
 
 ---
 *Built as a part of 60 day Cloud/DevOps preparation program before my journey starts in Hamburg in Oktober 2026*	
