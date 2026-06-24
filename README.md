@@ -40,5 +40,11 @@
 > - Git identity set
 > - First commit and push
 
+*Day 2: Shell Scripting and Pipes*
+> - Learned how '|' pipes, '>' redirection, 'xargs' connect commands into data pipelines
+> - Understood exit codes ('$?') and the necessity of safe scripting with 'set -euo pipefail'
+> - Built 'scripts/system-audit.sh'tool for auditing system health covering CPU, memory, disk usage and processes
+
+
 ---
 *Built as a part of 60 day Cloud/DevOps preparation program before my journey starts in Hamburg in Oktober 2026*	
